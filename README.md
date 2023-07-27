@@ -4,13 +4,11 @@
 
 # ⚡ MY TECH STACK
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-ff6d00?style=flat-square&logo=html5&logoColor=000000&labelColor=ff6d00&color=ff6d00">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-ff6d00?style=flat-square&logo=css3&logoColor=000000&labelColor=039be5&color=039be5">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ffd600?style=flat-square&logo=javascript&logoColor=000000&labelColor=ffd600&color=ffd600">
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r=6" />
+  </a>
 </p>
+
 
 
 
@@ -20,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,,figma,ai,,eclipse,mysql,git,visualstudio=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,eclipse,mysql,git,visualstudio=6" />
   </a>
 </p>
 
