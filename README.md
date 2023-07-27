@@ -44,7 +44,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhsanQasim21&theme=transparent"></p> </br>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhsanQasim2&theme=transparent"></p>
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhsanQasim21&theme=transparent"></p>
 
 
 # 🔗 LINKS
