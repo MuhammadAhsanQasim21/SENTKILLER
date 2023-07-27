@@ -36,7 +36,7 @@
 
 # 📊 GITHUB STATS
 
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MehmoodSheikh&color=blue&style=for-the-badge"></p> </br>
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim2&color=blue&style=for-the-badge"></p> </br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsanQasim21&langs_count=9&theme=transparent"></p> </br>
 
@@ -44,7 +44,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAhsanQasim21&theme=transparent"></p> </br>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehmoodSheikh&theme=transparent"></p>
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhsanQasim2&theme=transparent"></p>
 
 
 # 🔗 LINKS
