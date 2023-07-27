@@ -17,21 +17,13 @@
 
 # 🛠 TOOLS
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,mysql,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,linux,eclipse,mysql,mongodb,git,postman,visualstudio,jquery&perline=6" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,visualstudio,jquery&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,linux&perline=6" />
-  </a>
-</p>
+
 
 
 # 📊 GITHUB STATS
