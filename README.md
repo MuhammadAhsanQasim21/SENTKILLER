@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/QWc9.gif ">
+  <img src="/QWc9.gif ">
 </p>
 
 # ⚡ MY TECH STACK
