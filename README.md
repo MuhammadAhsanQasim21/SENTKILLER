@@ -28,7 +28,7 @@
 
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim21&color=blue&style=for-the-badge"></p> </br>
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim2&color=blue&style=for-the-badge"></p> </br>
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsanQasim21&langs_count=9&theme=transparent"></p> </br>
