@@ -1,42 +1,36 @@
 <p align="center">
-  <img src="/githubgif.gif" alt="Hi there, I'm Mehmood Sheikh 👋 ">
+  <img src="https://i.gifer.com/QWc9.gif ">
 </p>
 
 # ⚡ MY TECH STACK
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-ff6d00?style=flat-square&logo=html5&logoColor=000000&labelColor=ff6d00&color=ff6d00">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-ff6d00?style=flat-square&logo=css3&logoColor=000000&labelColor=039be5&color=039be5">
-
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ffd600?style=flat-square&logo=javascript&logoColor=000000&labelColor=ffd600&color=ffd600">
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r=6" />
+  </a>
 </p>
+
 
 
 
 
 # 🛠 TOOLS
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,mysql,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,eclipse,mysql,git,visualstudio=6" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,visualstudio,jquery&perline=6" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,linux&perline=6" />
-  </a>
-</p>
+
 
 
 # 📊 GITHUB STATS
 
+<<<<<<< HEAD
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim21&color=blue&style=for-the-badge"></p> </br>
+=======
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim2&color=blue&style=for-the-badge"></p> </br>
+>>>>>>> 8671b1f4c7b8b17428e19d25003217ee5adbe313
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsanQasim21&langs_count=9&theme=transparent"></p> </br>
 
