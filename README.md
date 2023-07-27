@@ -26,11 +26,10 @@
 
 # 📊 GITHUB STATS
 
-<<<<<<< HEAD
+
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim21&color=blue&style=for-the-badge"></p> </br>
-=======
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MuhammadAhsanQasim2&color=blue&style=for-the-badge"></p> </br>
->>>>>>> 8671b1f4c7b8b17428e19d25003217ee5adbe313
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsanQasim21&langs_count=9&theme=transparent"></p> </br>
 
