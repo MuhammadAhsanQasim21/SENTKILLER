@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/githubgif.gif" alt="Hi there, I'm Mehmood Sheikh 👋 ">
+  <img src=" ">
 </p>
 
 # ⚡ MY TECH STACK
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps,linux,eclipse,mysql,mongodb,git,postman,visualstudio,jquery&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,,figma,ai,,eclipse,mysql,git,visualstudio=6" />
   </a>
 </p>
 
